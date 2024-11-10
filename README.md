@@ -1,2 +1,3 @@
 # Tipos-de-servicos-em-nuvem
-Resumo do lab sobre serviços em nuvem- bootcamp DIO
+
+Nesse lab, vimos os tipos de serviços disponiveis na nuvem, começamos pela IaaS Infraestrutura como serviço que nós fornece a infraestrutura básica de ti que podem ser provisionados por demanda, é ideal para hospedagem de sites, armazenamento de dados e maquinas virtuais. O segundo é o Paas Plataforma como serviço que nos fornece um ambiente completo com ferramentas para construir, testar e implementar aplicações. E por último temo o Saas Software como serviço que nos disponibiliza software prontos para uso. O que devemos ter em mente que é de total responsabilidade do cliente a criação do arquivo que usaremos. 
